@@ -2,7 +2,6 @@
 
 ## Education
 MSc Management of Business Information Technology (Distinction) – University of Greenwich
-Python Developer Python Pro Bootcamp – London App Brewery 		             	    	       
 -	Courses: Strategic IT, Audit and Security, Software Quality Management, 
    System Design and Development, User Centred Web Engineering, 
   User Experience Design, Project Management, 
