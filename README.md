@@ -1,12 +1,15 @@
 # Data Scientist
 
 ## Education
-MSc Management of Business Information Technology (Distinction) – University of Greenwich        
+MSc Management of Business Information Technology (Distinction) – University of Greenwich
+Python Developer Python Pro Bootcamp – London App Brewery 		             	    	       
 -	Courses: Strategic IT, Audit and Security, Software Quality Management, 
    System Design and Development, User Centred Web Engineering, 
   User Experience Design, Project Management, 
   Web and Intranet Content Management.
+
 Python Developer Python Pro Bootcamp – London App Brewery 		             	    	       
+
 Bachelor of Science (Hons)  Psychology– University of Ibadan
 
 ## Work Experience
